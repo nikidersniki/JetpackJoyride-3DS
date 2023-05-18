@@ -1,7 +1,7 @@
 <br/>
 <p align="center">
   <a href="https://github.com/nikidersniki/JetpackJoyride-3DS">
-    <img src="https://static.spiels.at/9/91649/49837/672x448/jetpack-joyride.webp" alt="Logo" width="672" height="448">
+    <img src="https://cdn.discordapp.com/attachments/891038205032407050/1108711341495173212/jetpack-joyride.png" alt="Logo" width="672" height="448">
   </a>
 
   <h3 align="center">Jetpack Joyride 3Ds</h3>
