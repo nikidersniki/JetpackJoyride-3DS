@@ -27,7 +27,7 @@
 
 ![Screen Shot](https://cdn.discordapp.com/attachments/891038205032407050/1108693357795999754/image.png)
 
-Before, I always wanted to make my own homemade game, but I never had a reason to do it. Now, I wanted to learn C programming, so I decided to give it a try. This is my first program in C so don't expect much.
+I always wanted to make my own homebrew game, but I never had a reason to do it. Now, I wanted to learn C programming, so I decided to give it a try. This is my first program in C so don't expect much.
 
 ## Built With
 
